@@ -47,7 +47,7 @@ Experimente com Imagens: Selecione cada imagem de amostra fornecida e observe os
 ## Extraia texto de imagens no Vision Studio
 Para extrair texto de imagens usando o Vision Studio, siga estas etapas:
 
-Acesso ao Vision Studio: https://portal.vision.cognitive.azure.com.
+Acesso ao Vision Studio: Abra um navegador e vá para o Vision Studio em https://portal.vision.cognitive.azure.com.
 
 Seleção do Reconhecimento Óptico de Caracteres (OCR): Na página inicial "Introdução ao Vision", clique em "Reconhecimento óptico de caracteres" e selecione o bloco "Extrair texto de imagens".
 
@@ -67,7 +67,7 @@ Seleção do Reconhecimento Óptico de Caracteres (OCR): Na página inicial "Int
 ## Gerar legendas para uma imagem
 Para gerar legendas para imagens no Vision Studio, siga estas instruções:
 
-Acesso ao Vision Studio: Acesse o Vision Studio em https://portal.vision.cognitive.azure.com.
+Acesso ao Vision Studio: Abra um navegador e vá para o Vision Studio em https://portal.vision.cognitive.azure.com.
 
 Seleção do Bloco de Análise de Imagem: Na página inicial "Introdução ao Vision", clique na guia "Análise de imagem" e selecione o bloco "Adicionar legendas às imagens".
 
