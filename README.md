@@ -1,8 +1,4 @@
-# Configuração do Serviço Azure AI Face
-
-Este guia orienta você sobre como configurar um recurso de serviços de IA do Azure para utilizar o serviço Azure AI Face. Siga os passos abaixo para criar o recurso e conectá-lo ao Vision Studio.
-
-## Criação do Recurso de Serviços de IA do Azure
+# Criação do Recurso de Serviços de IA do Azure
 
 1. Acesse o [portal do Azure](https://portal.azure.com) em uma nova guia do navegador e faça login com a conta da Microsoft associada à sua assinatura do Azure.
 
